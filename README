@@ -1,0 +1,11 @@
+## Code original found here:
+## http://www.baconisafruit.com/2014/07/raspberry-pi-random-videos-at-boot.html
+ 
+## Mods:
+## Play window projection videos for halloween. Provide your own videos
+## Calculate all video duration
+## Smooth transition among videos by forcing font color to black
+## Shuffle videos, play all before shuffling again
+## Turn raspeberry off when done
+## Modify rc.local to start running on powerup:
+## sudo python /home/pi/shufflevid.py
